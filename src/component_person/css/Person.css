@@ -11,6 +11,7 @@
 .navbar-yeis{
     background-color: #25499f;
     position: fixed;
+    padding-right: 40px !important;
 }
 .collapse.in{
     display:block !important;
