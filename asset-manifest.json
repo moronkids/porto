@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/porto/static/css/main.246ce3d3.chunk.css",
+    "main.js": "/porto/static/js/main.3d2ba3a5.chunk.js",
+    "main.js.map": "/porto/static/js/main.3d2ba3a5.chunk.js.map",
+    "runtime~main.js": "/porto/static/js/runtime~main.6b01f4fb.js",
+    "runtime~main.js.map": "/porto/static/js/runtime~main.6b01f4fb.js.map",
+    "static/css/2.266e55a5.chunk.css": "/porto/static/css/2.266e55a5.chunk.css",
+    "static/js/2.c89ab330.chunk.js": "/porto/static/js/2.c89ab330.chunk.js",
+    "static/js/2.c89ab330.chunk.js.map": "/porto/static/js/2.c89ab330.chunk.js.map",
+    "index.html": "/porto/index.html",
+    "precache-manifest.a88209b47aedc9eb0d7089cb123fa522.js": "/porto/precache-manifest.a88209b47aedc9eb0d7089cb123fa522.js",
+    "service-worker.js": "/porto/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/porto/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.246ce3d3.chunk.css.map": "/porto/static/css/main.246ce3d3.chunk.css.map"
+  }
+}
