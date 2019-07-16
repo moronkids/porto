@@ -1,0 +1,35 @@
+.Person {
+    width: 60%;
+    margin: 4px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 25px;
+    text-align: center;
+    background-color: #ccc;
+}
+
+.navbar-yeis{
+    background-color: #25499f;
+    position: fixed;
+}
+.collapse.in{
+    display:block !important;
+    float: left;
+    width: 100%;
+}
+
+.navbar-custom {
+    position: fixed;
+}
+.fixed-nav {
+    position: fixed;
+  }
+
+.navbar {
+    position:fixed !important;
+}
+
+.App{
+    /* background-color: #201b30; */
+    padding-top: 100px;
+}
