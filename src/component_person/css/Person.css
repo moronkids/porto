@@ -7,11 +7,14 @@
     text-align: center;
     background-color: #ccc;
 }
+.ikon {
 
+    font-size: 2vmin;
+}
 .navbar-yeis{
     background-color: #25499f;
     position: fixed;
-    padding-right: 40px !important;
+    /* padding-right: 40px !important; */
 }
 .collapse.in{
     display:block !important;
@@ -28,6 +31,7 @@
 
 .navbar {
     position:fixed !important;
+    z-index:10
 }
 .nvabar-toggler{
     position:fixed !important;

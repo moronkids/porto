@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Person from './component_person/Person';
 import Navbar_x from './component_person/Navbar';
+import Landing from './component_person/landingpage';
 //menggunakana component apabuila class
 import Background from './image/20180810_135105.jpg'
 class App extends Component {
@@ -29,18 +30,6 @@ class App extends Component {
   handleClickOutside = () => {
     console.log('tes');
   }
-  nameChangedHandler = (event) => {
-    this.setState({
-      persons: [
-        {name: 'Ardani', age: 23},
-        {name: event.target.value, age: 21},
-        {name: 'Risma', age: 21}
-      ]
-     })
-  }
-
-
-
 
   render () {
     return(
@@ -51,29 +40,9 @@ class App extends Component {
         backgroundRepeat: 'no-repeat'
       }}>
         <Navbar_x/>
-        <h1>Hi, I'am React App</h1>
-        <button className="btn btn-primary" onClick={this.switchNameHandler.bind(this, "Kontol2")}>Switch name</button>
-        <Person name={this.state.persons[0].name} age={this.state.persons[0].age}>
-          hobbies: coding
-        </Person>
-        <Person name={this.state.persons[1].name} age={this.state.persons[1].age} changed={this.nameChangedHandler}>
-          hobbies: sleeping
-        </Person>
-        <Person name={this.state.persons[2].name} age={this.state.persons[2].age}>
-          hobbies: goodies
-        </Person>
-        <Person name={this.state.persons[2].name} age={this.state.persons[2].age}>
-          hobbies: goodies
-        </Person>
-        <Person name={this.state.persons[2].name} age={this.state.persons[2].age}>
-          hobbies: goodies
-        </Person>
-        <Person name={this.state.persons[2].name} age={this.state.persons[2].age}>
-          hobbies: goodies
-        </Person>
-
-        
-      </div>
+        {/* <h1 className='teks'>Hi, I'am React App</h1> */}
+          <Landing ></Landing>
+        </div>
     )
   }
 }
