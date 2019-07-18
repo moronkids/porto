@@ -4,8 +4,7 @@ import './App.css';
 import Person from './component_person/Person';
 import Navbar_x from './component_person/Navbar';
 //menggunakana component apabuila class
-
-
+import Background from './image/20180810_135105.jpg'
 class App extends Component {
   state = {
     persons: [
@@ -42,9 +41,15 @@ class App extends Component {
 
 
 
+
   render () {
     return(
-      <div className='App'>
+      <div className='App' style={{  
+        backgroundImage: `url(${Background})`,
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat'
+      }}>
         <Navbar_x/>
         <h1>Hi, I'am React App</h1>
         <button className="btn btn-primary" onClick={this.switchNameHandler.bind(this, "Kontol2")}>Switch name</button>

@@ -5,7 +5,9 @@ import './css/magnific-popup.css';
 import './css/navbar.css';
 // import './css/owl.carousel.min.css';
 import './css/responsive.css';
-// import './css/style.css';
+import './css/style.css';
+
+// import './css/font-awesome.min.css';
 import onClickOutside from "react-onclickoutside";
 import { Navbar, Collapse} from 'reactstrap';
 class Nvb extends Component {
