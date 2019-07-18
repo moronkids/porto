@@ -5,7 +5,7 @@ import './css/style.css';
 class Landing extends Component {
   render() {
     return(
-      <div style={{width: '100%', margin: 'auto', paddingBottom: '12px'}}>
+      <div style={{width: '100%', margin: 'auto'}}>
 
 
             <div className="banner-text">

@@ -53,24 +53,9 @@ class Nvb extends Component {
                             <Collapse isOpen={this.state.collapse} className="collapse navbar-collapse justify-content-end" id="mosh-navbar">
                                 <ul className="navbar-nav animated" id="nav">
                                     <li className="nav-item active"><a className="nav-link" href="index.html">Home</a></li>
-                                    <li className="nav-item dropdown">
-                                        <a className="nav-link dropdown-toggle" href="#" id="moshDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-                                        <div className="dropdown-menu" aria-labelledby="moshDropdown">
-                                            <a className="dropdown-item" href="index.html">Home</a>
-                                            <a className="dropdown-item" href="about.html">About Us</a>
-                                            <a className="dropdown-item" href="services.html">Services</a>
-                                            <a className="dropdown-item" href="portfolio.html">Portfolio</a>
-                                            <a className="dropdown-item" href="blog.html">Blog</a>
-                                            <a className="dropdown-item" href="contact.html">Contact</a>
-                                            <div className="dropdown-divider"></div>
-                                            <a className="dropdown-item" href="elements.html">Elements</a>
-                                        </div>
-                                    </li>
-                                    <li className="nav-item"><a className="nav-link" href="about.html">About Us</a></li>
-                                    <li className="nav-item"><a className="nav-link" href="services.html">Services</a></li>
                                     <li className="nav-item"><a className="nav-link" href="portfolio.html">Portfolio</a></li>
-                                    <li className="nav-item"><a className="nav-link" href="blog.html">Blog</a></li>
                                     <li className="nav-item"><a className="nav-link" href="contact.html">Contact</a></li>
+                                    <li className="nav-item"><a className="nav-link" href="about.html">About Me</a></li>
                                 </ul>
         
                             </Collapse>

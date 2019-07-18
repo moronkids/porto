@@ -22,7 +22,10 @@
 :: 1.0 Base CSS Start
 -------------------------- */
 .teks {
-    color: white;
+    color: #a6a6a6;
+}
+.heder {
+    color: black;
 }
 
 .header-color {
