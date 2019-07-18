@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5cb53f28d0ba891a18f868a64a735ee",
+    "revision": "7e4a8b285f13a212200e7acabb97ec47",
     "url": "/porto/index.html"
   },
   {
-    "revision": "a81b53a823a3f3182b33",
+    "revision": "5c7ff7c701e78fba5158",
     "url": "/porto/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "baf3d63605bfb21807aa",
-    "url": "/porto/static/css/main.2051a59a.chunk.css"
+    "revision": "3f0ee17008d5919180c4",
+    "url": "/porto/static/css/main.3a33a8de.chunk.css"
   },
   {
-    "revision": "a81b53a823a3f3182b33",
-    "url": "/porto/static/js/2.d78fa390.chunk.js"
+    "revision": "5c7ff7c701e78fba5158",
+    "url": "/porto/static/js/2.afed5255.chunk.js"
   },
   {
-    "revision": "baf3d63605bfb21807aa",
-    "url": "/porto/static/js/main.1ca08078.chunk.js"
+    "revision": "3f0ee17008d5919180c4",
+    "url": "/porto/static/js/main.2d929797.chunk.js"
   },
   {
     "revision": "3cbf1545047fd652b947",
