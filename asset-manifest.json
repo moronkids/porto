@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/porto/static/css/main.0a1a40b7.chunk.css",
-    "main.js": "/porto/static/js/main.36d24b85.chunk.js",
-    "main.js.map": "/porto/static/js/main.36d24b85.chunk.js.map",
+    "main.css": "/porto/static/css/main.27e20c8d.chunk.css",
+    "main.js": "/porto/static/js/main.65426ad5.chunk.js",
+    "main.js.map": "/porto/static/js/main.65426ad5.chunk.js.map",
     "runtime~main.js": "/porto/static/js/runtime~main.6b01f4fb.js",
     "runtime~main.js.map": "/porto/static/js/runtime~main.6b01f4fb.js.map",
     "static/css/2.266e55a5.chunk.css": "/porto/static/css/2.266e55a5.chunk.css",
     "static/js/2.d78fa390.chunk.js": "/porto/static/js/2.d78fa390.chunk.js",
     "static/js/2.d78fa390.chunk.js.map": "/porto/static/js/2.d78fa390.chunk.js.map",
     "index.html": "/porto/index.html",
-    "precache-manifest.3a68c41e75fd3cc9cf06b4d6c08a9130.js": "/porto/precache-manifest.3a68c41e75fd3cc9cf06b4d6c08a9130.js",
+    "precache-manifest.e45761f1fcca6ac7f8dbee0e07df3cf5.js": "/porto/precache-manifest.e45761f1fcca6ac7f8dbee0e07df3cf5.js",
     "service-worker.js": "/porto/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/porto/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.0a1a40b7.chunk.css.map": "/porto/static/css/main.0a1a40b7.chunk.css.map",
+    "static/css/main.27e20c8d.chunk.css.map": "/porto/static/css/main.27e20c8d.chunk.css.map",
     "static/media/20180810_135105.jpg": "/porto/static/media/20180810_135105.62605e4a.jpg"
   }
 }
