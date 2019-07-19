@@ -19,17 +19,17 @@ class Footer extends Component {
 
 				<div>
 					<i class="fa fa-map-marker"></i>
-					<p><span>21 Revolution Street</span> Paris, France</p>
+					<p><span>Godean Street KM 5</span>YK, Indonesia</p>
 				</div>
 
 				<div>
 					<i class="fa fa-phone"></i>
-					<p>+1 555 123456</p>
+					<p>+628993117341</p>
 				</div>
 
 				<div>
 					<i class="fa fa-envelope"></i>
-					<p><a href="mailto:support@company.com">support@company.com</a></p>
+					<p><a href="mailto:support@company.com">sulistyoardani@gmail.com</a></p>
 				</div>
 
 			</div>
@@ -43,10 +43,10 @@ class Footer extends Component {
 
 				<div class="footer-icons">
 
-					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="https://www.facebook.com/SulistyoArdani"><i class="fa fa-facebook"></i></a>
 					{/* <a href="#"><i class="fa fa-twitter"></i></a> */}
-					<a href="#"><i class="fa fa-linkedin"></i></a>
-					<a href="#"><i class="fa fa-github"></i></a>
+					<a href="https://www.linkedin.com/in/sulistyo-ardani-a30059179/"><i class="fa fa-linkedin"></i></a>
+					<a href="http://github.com/moronkids"><i class="fa fa-github"></i></a>
 
 				</div>
 

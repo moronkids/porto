@@ -49,7 +49,7 @@ class App extends Component {
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat'
       }}>
-        <h1 className='teks' style={{paddingBottom:"150px"}}>"Hi, this website build with React :)"</h1>
+        <h1 className='teks' style={{paddingBottom:"20%"}}>"Hi, this website build with React :)"</h1>
           <Landing />
           
           </div>

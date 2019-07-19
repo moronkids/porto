@@ -49,8 +49,10 @@ class Nvb extends Component {
                         {/* <Navbar className="navbar navbar-yeis navbar-custom bootstrap-iso navbar navbar-default navbar-absolute navbar-expand-lg align-items-center">
                         <Navbar className="navbar navbar-yeis navbar-custom bootstrap-iso navbar navbar-default navbar-absolute navbar-expand-lg align-items-center"> */}
                         <nav className={this.state.scroll > this.state.top ? "navbar navbar-yeis navbar-custom bootstrap-iso navbar navbar-default navbar-absolute navbar-expand-lg " : "navbar navbar-yeis navbar-custom navbar-expand-lg align-items-center"}>
-                            <button onClick={this.toggle} className="navbar-toggler" type="button" data-toggle="collapse" data-target="#mosh-navbar" aria-controls="mosh-navbar" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
-                            <Collapse isOpen={this.state.collapse} className="collapse navbar-collapse justify-content-end" id="mosh-navbar">
+                            <button onClick={this.toggle}  className="navbar-toggler" type="button" data-toggle="collapse" data-target="#mosh-navbar" aria-controls="mosh-navbar" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
+                            
+                            
+                            <Collapse isOpen={this.state.collapse} id="collapseOne" className="collapse navbar-collapse justify-content-end" id="mosh-navbar">
                                 <ul className="navbar-nav animated" id="nav">
                                     <li className="nav-item active"><a className="nav-link" href="index.html">Home</a></li>
                                     <li className="nav-item"><a className="nav-link" href="portfolio.html">Portfolio</a></li>
@@ -59,6 +61,7 @@ class Nvb extends Component {
                                 </ul>
         
                             </Collapse>
+                            
                         </nav>
                     </div>
 

@@ -5,7 +5,7 @@ import './css/style.css';
 class Landing extends Component {
   render() {
     return(
-      <div style={{width: '100%', margin: 'auto'}}>
+      <div style={{width: '100%', margin: 'auto', paddingBottom:"30px"}}>
 
 
             <div className="banner-text">
@@ -17,18 +17,18 @@ class Landing extends Component {
         <div className="social-links">
 
           {/* LinkedIn */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+          <a href="https://www.linkedin.com/in/sulistyo-ardani-a30059179/" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-linkedin-square ikon"  aria-hidden="true" />
           </a>
 
           {/* Github */}
-          <a href="http://google.com"  rel="noopener noreferrer" target="_blank">
+          <a href="http://github.com/moronkids"  rel="noopener noreferrer" target="_blank">
             <i className="fa fa-github-square ikon"  aria-hidden="true" />
           </a>
 
-          {/* Youtube */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-youtube-square ikon"  aria-hidden="true" />
+          {/* Facebook */}
+          <a href="https://www.facebook.com/SulistyoArdani" rel="noopener noreferrer" target="_blank">
+            <i class="fa fa-facebook-square ikon" aria-hidden="true"></i>
           </a>
 
         </div>
